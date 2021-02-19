@@ -9,6 +9,7 @@ int main(){
 		cout << i << endl;
 	}
 }
+/*continue*/
 // i = 1
 // 1 == 2 (false)
 // cout 1
@@ -30,7 +31,20 @@ int main(){
 // cout 5
 
 
-/*
+/* break
+
+	//for(int i=1;i<=10;i++){
+	// 	if(i == 5){
+	// 		break;
+	// 	}
+	// 	cout << i << endl;
+	// }
+	// for(int i=5;i<=10;i++){
+	// 	if(i == 7){
+	// 		break;
+	// 	}
+	// 	cout << i << endl;
+	// }
 i = 1
 1 ==5 ? (false)
 cout 1
@@ -62,19 +76,6 @@ cout 6
 i = 7
 7 == 7? (true)
 hentikan perulangan
-
-for(int i=1;i<=10;i++){
-	// 	if(i == 5){
-	// 		break;
-	// 	}
-	// 	cout << i << endl;
-	// }
-	// for(int i=5;i<=10;i++){
-	// 	if(i == 7){
-	// 		break;
-	// 	}
-	// 	cout << i << endl;
-	// }
 
 
 */
